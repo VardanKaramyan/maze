@@ -19,5 +19,5 @@ Maze Game is a simple web-based game where players navigate through a maze to re
 
 ## Demo
 
-https://maze-tan-three.vercel.app
+[https://maze-tan-three.vercel.app]
 
