@@ -2,7 +2,7 @@
 
 ## Description
 
-Maze Game is a simple web-based game where players navigate through a maze to reach the goal.
+Maze Game is a simple web-based game where players navigate through a maze using the WASD keys to reach the goal.
 
 ## Features
 
